@@ -6,7 +6,7 @@
 
 <br>
 
-- My name is Byeong Heon Lee, and I live in Seoul, Korea
+- My Name is Byeong Heon Lee, and I live in Seoul, Korea
 - B.S. in Computer Engineering, Hongik University, Seoul, Korea
 - A Passionate Self-Taught Developer
 - Do Weight Training in Free Time
