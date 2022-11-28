@@ -169,6 +169,4 @@
 
 <br>
 
-Credit: [Byeong Heon Lee](https://github.com/ByeongHeonLee)
-
 Last Edited on: 29/11/2022
