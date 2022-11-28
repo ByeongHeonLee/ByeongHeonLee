@@ -87,6 +87,7 @@
     <img height="30px" src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
     <img height="30px" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/>
     <img height="30px" src="https://img.shields.io/badge/Data Grip-000000?style=flat-square&logo=DataGrip&logoColor=white"/>
+    <img height="30px" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </p>
 
 <br>
@@ -95,6 +96,7 @@
 
 <p>
     <img height="30px" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>
+    <img height="30px" src="https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=LaTex&logoColor=white"/>
     <img height="30px" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
 </p> 
 
