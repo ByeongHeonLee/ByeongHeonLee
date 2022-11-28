@@ -160,6 +160,14 @@
 </a>
 </li>
 	
+<br>
+
+<li>
+<a href="https://dad-rock.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tistory:  Archive-%23000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
 </ul>
 </div>
 
