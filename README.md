@@ -10,7 +10,8 @@
 - Do Weight Training in Free Time
 - Currently Learning [Concurrent Programming using Rust, C, Assembly](https://www.hanbit.co.kr/store/books/look.php?p_code=B9078925849)
 - Here's my [Personal Tech Blog](https://dad-rock.tistory.com/)
-- I’m Currently Open for an Intern or a New Job Opportunity,<br /> this is my [Linked.in](https://www.linkedin.com/in/%EB%B3%91%ED%97%8C-%EC%9D%B4-5446251a6/) Profile
+- Here's my [Linked.in](https://www.linkedin.com/in/%EB%B3%91%ED%97%8C-%EC%9D%B4-5446251a6/) Profile
+- I Work for [Woori Investment Bank](https://www.wooriib.com/en_index.jsp)
 
 <br><br>
 
