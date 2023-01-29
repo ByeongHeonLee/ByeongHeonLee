@@ -6,8 +6,6 @@
 
 - My Name is Byeong Heon Lee, and I live in Seoul, Korea
 - B.S. in Computer Engineering, Hongik University, Seoul, Korea
-- A Passionate Self-Taught Developer
-- Do Weight Training in Free Time
 - Currently Learning [Concurrent Programming using Rust, C, Assembly](https://www.hanbit.co.kr/store/books/look.php?p_code=B9078925849)
 - Here's my [Personal Tech Blog](https://dad-rock.tistory.com/)
 - Here's my [Linked.in](https://www.linkedin.com/in/%EB%B3%91%ED%97%8C-%EC%9D%B4-5446251a6/) Profile
