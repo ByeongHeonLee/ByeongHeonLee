@@ -9,7 +9,7 @@
 - Currently Learning [Concurrent Programming using Rust, C, Assembly](https://www.hanbit.co.kr/store/books/look.php?p_code=B9078925849)
 - Here's my [Personal Tech Blog](https://dad-rock.tistory.com/)
 - Here's my [Linked.in](https://www.linkedin.com/in/%EB%B3%91%ED%97%8C-%EC%9D%B4-5446251a6/) Profile
-- I Work for [Woori Investment Bank](https://www.wooriib.com/en_index.jsp)
+- I Work for [Woori Investment Bank](https://www.wooriib.com/en_index.jsp) (Jan 2023 - Current)
 
 <br><br>
 
@@ -25,13 +25,14 @@
 <p>
   <img height="30px" src="https://img.shields.io/badge/SPARC Assembly-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img height="30px" src="https://img.shields.io/badge/C Language-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img height="30px" src="https://img.shields.io/badge/C++ Language%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/C++ Language%20-%230059.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/Java-2F2625?style=flat-square&logo=CoffeeScript&logoColor=white"/>
   <img height="30px" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
 <br>   
     
-- **Web Development**:
+- **Web**:
 
 <p>
    <img height="30px" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -44,6 +45,7 @@
 - **Database**:
 
 <p>
+   <img height="30px" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
    <img height="30px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
    <img height="30px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
@@ -83,6 +85,7 @@
 <p>
     <img height="30px" src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
     <img height="30px" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/>
+    <img height="30px" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
     <img height="30px" src="https://img.shields.io/badge/Data Grip-000000?style=flat-square&logo=DataGrip&logoColor=white"/>
     <img height="30px" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </p>
