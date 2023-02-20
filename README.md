@@ -1,3 +1,6 @@
+<!-- https://simpleicons.org/ -->
+
+
 ## <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/>  **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -48,6 +51,7 @@
    <img height="30px" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
    <img height="30px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
    <img height="30px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+   <img height="30px" src="https://img.shields.io/badge/Toad-FB4F14?style=flat-square&logo=Quest&logoColor=white"/>
 </p>
 
 <br>
