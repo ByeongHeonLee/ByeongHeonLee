@@ -51,6 +51,7 @@
    <img height="30px" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
    <img height="30px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
    <img height="30px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+   <br />
    <img height="30px" src="https://img.shields.io/badge/Toad-FB4F14?style=flat-square&logo=Quest&logoColor=white"/>
 </p>
 
