@@ -102,7 +102,7 @@
 <p>
     <img height="30px" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>
     <img height="30px" src="https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=LaTex&logoColor=white"/>
-    <img height="30px" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
+    <!--img height="30px" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/-->
 </p> 
 
 
